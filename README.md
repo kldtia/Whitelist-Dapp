@@ -19,3 +19,5 @@ Add Mumbai-polygon to your wallet using this faucet link https://mumbaifaucet.co
 
 Go to https://whitelist-dapp-kldtia.vercel.app/ to add your wallet to the Whitelist
 
+Resources from this project https://learnweb3.io/ the sophomore track 
+
